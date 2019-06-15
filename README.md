@@ -1,2 +1,2 @@
 # TalkTo
-TalkTo
+The successor to SIR. 
